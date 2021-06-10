@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kaps2812
-- 👀 I’m interested in Development in C/C++/DS Projects
+- 👀 I’m interested in Development of C/C++/DS Projects
 - 🌱 I’m currently learning C , C++ , DS and algorithms
 - 💞️ I’m looking to collaborate on the projects on C , C++ , Advanced DS
 - 📫 How to reach me ...
